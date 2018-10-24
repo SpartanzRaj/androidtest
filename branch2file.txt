@@ -1,0 +1,127 @@
+hi my name is hussain im using galaxy note3 and my OS kitkat 4.4.2 
+i have problem abt my android system downloader once i disable it and thn i anable again but now problem is when i download something so download starts but i cant see in notification bar also cant see the progress of download tht how many percentage downloaded please need help
+12-14-2014 12:46 PMLike
+0
+ 
+Rukbat's Avatar
+ 34,276
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=4125591&viewfull=1#post4125591
+Rukbat
+Ambassador
+Moderator
+I have sort of the same problem since the 4.4.2 update - I see the download, but I don't see the installation after it downloads. I don't think it's something you did, I think it's something in the Note 3 4.4.2 update.
+12-14-2014 10:30 PMLike
+0
+ B. Diddy's Avatar
+ 105,561
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=4125628&viewfull=1#post4125628
+B. Diddy
+Senior Ambassador
+Welcome to Android Central! Go to the App Manager, select Download Manager, and Force Stop, then Clear Cache/ClearData. Now try again.
+
+Rukbat, are you saying you don't see the download in the Downloads app? Or the installed app doesn't show up in the App Drawer?
+12-14-2014 10:52 PMLike
+1
+ AndoDoug's Avatar
+ 1
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=4889117&viewfull=1#post4889117
+AndoDoug
+In my case on an LG G2 running 4.4.2 kitkat, I never see progress of podcast downloads, just a notification when complete. The weird thing is that i was using ES Downloader and it worked great but now is nowhere to be found - although i didn't delete the program, i did try reinstalling it regardless, but get an error message. Downloaded audio goes to my music folder; no clue about folders in general! Thanks
+12-12-2015 04:26 PMLike
+0
+ Arockia achraiam's Avatar
+ 1
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5572620&viewfull=1#post5572620
+Arockia achraiam
+Pls reply
+11-20-2016 10:05 PMLike
+0
+ B. Diddy's Avatar
+ 105,561
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5572668&viewfull=1#post5572668
+B. Diddy
+Senior Ambassador
+Welcome to Android Central! Please reply about what? Have you read the previous responses?
+11-20-2016 10:31 PMLike
+1
+ Batota253's Avatar
+ 1
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5617506&viewfull=1#post5617506
+Batota253
+My phone is j7 and i cant find the download progress what should i do 
+Reply plz 
+Thanxs in advance
+12-22-2016 11:55 AMLike
+0
+ muiriddin's Avatar
+ 95
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5673914&viewfull=1#post5673914
+muiriddin
+In the apps section of the setting, the Download manager is a system app, you will need to go up to the three dot menu and choose show system apps to see it...
+02-10-2017 02:52 PMLike
+2
+ Bigmuddy11's Avatar
+ 4
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5770112&viewfull=1#post5770112
+Bigmuddy11
+Muiriddins response worked on my galaxy s7 edge.
+04-19-2017 07:32 PMLike
+0
+ Bigmuddy11's Avatar
+ 4
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5770116&viewfull=1#post5770116
+Bigmuddy11
+Thank you so much Muiriddin. Got my notifications back immediately.... a LOT of them at once lol.
+04-19-2017 07:34 PMLike
+0
+ auntieannie2's Avatar
+ 3
+
+https://forums.androidcentral.com/showthread.php?t=472004&s=80247dd46694f14283941c19ae1aa23a&p=5834459&viewfull=1#post5834459
+auntieannie2
+samsung tab S2 9.7: same problem since update to android 7. Tried Muiriddin suggestion in download manager, re-started tablet, same problem. Any other solutions? Would so much like to see the download progress again. Thank you.
+05-31-2017 02:23 PMLike
+0
+ForumAndroid Central CommunityGeneral Help and How To
+by TaboolaSponsored LinksYou May Like
+The Fascinating Life of Ivanka Trump
+Work + Money
+PG Diploma in Machine Learning & AI. Prepare for the future job wave!
+Amity Online
+15 Forbidden Destinations You Can Never Visit
+Far & Wide
+Indian Festival Sale Started!! Upto 90% off on Rolex first copy watches.
+Todaysbuzz.in
+« ES File Explorer not saving host file entries | Hey guys, I've got $500 to spend on what? »
+SIMILAR THREADS
+Galaxy S3 LCD problems
+By ipwn3r456 in forum Samsung Galaxy S3
+Replies: 5
+Last Post: 12-19-2014, 12:05 AM
+3+ Weeks AFter Upgrade to Lollipop PLUS the Just Released Upgrade - STILL PROBLEMS
+By Bmilano3161 in forum Google Nexus 10 Tablet
+Replies: 5
+Last Post: 12-16-2014, 06:35 AM
+Droid Bionic, (no sim) wont download anything??
+By squishsquish in forum General Help and How To
+Replies: 2
+Last Post: 12-14-2014, 11:55 PM
+Why won't my Google text to speech stop downloading?
+By mk33 in forum Ask a Question
+Replies: 1
+Last Post: 12-14-2014, 12:25 AM
+Why won't my Google text to speech stop downloading?
+By mk33 in forum Ask a Question
+Replies: 1
+Last Post: 12-14-2014, 12:23 AM
+Contact Us Android Forums at AndroidCentral.com Top
+
